@@ -14,6 +14,7 @@ authors:
     affiliation: "Jagiellonian University, Faculty of Physics, Astronomy and Applied Computer Science, Kraków, Poland"
     orcid: "https://orcid.org/0000-0002-8624-6284"
 version: "0.1.0"
+doi: "10.5281/zenodo.23160358"
 license: Apache-2.0
 repository-code: "https://github.com/Quantum-Cosmos-Lab/cophi"
 url: "https://quantum-cosmos-lab.github.io/cophi/"

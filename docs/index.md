@@ -1,5 +1,7 @@
 # cophi
 
+[![DOI](https://zenodo.org/badge/1387621923.svg)](https://doi.org/10.5281/zenodo.23160358)
+
 **Compile Blackbird quantum-optics programs into qubit-based OpenQASM circuits.**
 
 cophi bridges continuous-variable (CV) photonic quantum computing and gate-based quantum hardware.  It reads circuits written in the [Blackbird](https://quantum-blackbird.readthedocs.io) language — the standard for expressing Gaussian Boson Sampling and related experiments — and produces equivalent [OpenQASM 2.0](https://openqasm.com) programs where photon-number states are encoded in binary across qubits.

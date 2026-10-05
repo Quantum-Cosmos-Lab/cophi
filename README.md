@@ -1,5 +1,7 @@
 # cophi
 
+[![DOI](https://zenodo.org/badge/1387621923.svg)](https://doi.org/10.5281/zenodo.23160358)
+
 Compile [Blackbird](https://quantum-blackbird.readthedocs.io) quantum-optics programs into qubit-based [OpenQASM](https://openqasm.com) circuits using truncated Fock-space encoding.
 
 ## Overview
@@ -109,7 +111,8 @@ uv run mkdocs serve
 
 If you use cophi in your research, please cite it. Citation metadata is in
 [`CITATION.cff`](CITATION.cff); GitHub's **"Cite this repository"** button exports it
-as BibTeX or APA. Each release is archived on [Zenodo](https://zenodo.org) with its own DOI.
+as BibTeX or APA. Each release is archived on Zenodo:
+[doi:10.5281/zenodo.23160358](https://doi.org/10.5281/zenodo.23160358).
 
 ## Project structure
 
