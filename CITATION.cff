@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata from this file."
 type: software
-title: "cophi"
+title: "COΦ (cophi): COmpiling PHotonics into dIgital quantum circuits"
 abstract: >-
   Compiler for translating Blackbird quantum optics programs into qubit-based
   OpenQASM circuits via truncated Fock space encoding. Photon-number states of

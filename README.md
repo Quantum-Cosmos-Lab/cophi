@@ -1,12 +1,17 @@
-# cophi
+# COΦ (cophi)
 
 [![DOI](https://zenodo.org/badge/1387621923.svg)](https://doi.org/10.5281/zenodo.23160358)
+[![Docs](https://img.shields.io/badge/docs-online-blue)](https://quantum-cosmos-lab.github.io/cophi/)
+
+**CO**mpiling **PH**otonics into d**I**gital quantum circuits.
 
 Compile [Blackbird](https://quantum-blackbird.readthedocs.io) quantum-optics programs into qubit-based [OpenQASM](https://openqasm.com) circuits using truncated Fock-space encoding.
 
+**Documentation:** <https://quantum-cosmos-lab.github.io/cophi/>
+
 ## Overview
 
-cophi bridges continuous-variable (CV) photonic circuits and discrete-variable gate-based quantum hardware.  It takes a Blackbird program describing Gaussian Boson Sampling (or related) circuits and produces an equivalent OpenQASM program where photon-number states are encoded in binary across qubits.
+COΦ bridges continuous-variable (CV) photonic circuits and discrete-variable gate-based quantum hardware.  It takes a Blackbird program describing Gaussian Boson Sampling (or related) circuits and produces an equivalent OpenQASM program where photon-number states are encoded in binary across qubits.
 
 **Supported CV operations:**
 
@@ -109,7 +114,7 @@ uv run mkdocs serve
 
 ## Citation
 
-If you use cophi in your research, please cite it. Citation metadata is in
+If you use COΦ in your research, please cite it. Citation metadata is in
 [`CITATION.cff`](CITATION.cff); GitHub's **"Cite this repository"** button exports it
 as BibTeX or APA. Each release is archived on Zenodo:
 [doi:10.5281/zenodo.23160358](https://doi.org/10.5281/zenodo.23160358).

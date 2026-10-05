@@ -27,7 +27,7 @@ dependencies = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/Quantum-Cosmos-Lab/cophi#readme"
+Documentation = "https://quantum-cosmos-lab.github.io/cophi/"
 Repository = "https://github.com/Quantum-Cosmos-Lab/cophi"
 Issues = "https://github.com/Quantum-Cosmos-Lab/cophi/issues"
 

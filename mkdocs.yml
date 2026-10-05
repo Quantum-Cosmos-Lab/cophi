@@ -1,4 +1,4 @@
-site_name: cophi
+site_name: COΦ
 site_description: Compile Blackbird quantum-optics programs into qubit-based OpenQASM circuits.
 repo_url: https://github.com/Quantum-Cosmos-Lab/cophi
 repo_name: Quantum-Cosmos-Lab/cophi
