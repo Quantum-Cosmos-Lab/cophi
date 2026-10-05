@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+title: "cophi"
+abstract: >-
+  Compiler for translating Blackbird quantum optics programs into qubit-based
+  OpenQASM circuits via truncated Fock space encoding. Photon-number states of
+  each optical mode are encoded in binary across qubits, so continuous-variable
+  circuits (squeezing, displacement, phase shift, beam splitter) can be run on
+  gate-based simulators and hardware.
+authors:
+  - family-names: "Czelusta"
+    given-names: "Grzegorz"
+    affiliation: "Jagiellonian University, Faculty of Physics, Astronomy and Applied Computer Science, Kraków, Poland"
+    orcid: "https://orcid.org/0000-0002-8624-6284"
+version: "0.1.0"
+license: Apache-2.0
+repository-code: "https://github.com/Quantum-Cosmos-Lab/cophi"
+url: "https://quantum-cosmos-lab.github.io/cophi/"
+keywords:
+  - quantum computing
+  - quantum optics
+  - continuous-variable quantum computing
+  - Gaussian boson sampling
+  - Fock space
+  - Blackbird
+  - OpenQASM
+  - compiler
+  - PennyLane

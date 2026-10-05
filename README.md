@@ -105,6 +105,12 @@ uv run ruff check src/ tests/
 uv run mkdocs serve
 ```
 
+## Citation
+
+If you use cophi in your research, please cite it. Citation metadata is in
+[`CITATION.cff`](CITATION.cff); GitHub's **"Cite this repository"** button exports it
+as BibTeX or APA. Each release is archived on [Zenodo](https://zenodo.org) with its own DOI.
+
 ## Project structure
 
 ```
@@ -127,6 +133,7 @@ cophi/
 │   ├── example.xbb
 │   └── example.py
 ├── mkdocs.yml
+├── CITATION.cff
 ├── pyproject.toml
 └── README.md
 ```
