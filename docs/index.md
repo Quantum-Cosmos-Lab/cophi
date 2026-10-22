@@ -1,6 +1,7 @@
 # COΦ (cophi)
 
 [![DOI](https://zenodo.org/badge/1387621923.svg)](https://doi.org/10.5281/zenodo.23160358)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.28349-b31b1b.svg)](https://arxiv.org/abs/2610.28349)
 
 **CO**mpiling **PH**otonics into d**I**gital quantum circuits.
 
@@ -54,3 +55,10 @@ photons = compiler.binary_to_photon_meas(binary_meas)
 - [Getting started](getting-started.md) — installation and first circuit.
 - [Theory](theory.md) — the encoding scheme and gate decompositions.
 - [API Reference](reference/index.md) — full class and function docs.
+
+## Citation
+
+If you use COΦ in your research, please cite both the article
+([arXiv:2610.28349](https://arxiv.org/abs/2610.28349)) and the software
+([doi:10.5281/zenodo.23160358](https://doi.org/10.5281/zenodo.23160358)).
+BibTeX entries are in the [README](https://github.com/Quantum-Cosmos-Lab/cophi#citation).

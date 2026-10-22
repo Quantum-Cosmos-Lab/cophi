@@ -1,6 +1,7 @@
 # COΦ (cophi)
 
 [![DOI](https://zenodo.org/badge/1387621923.svg)](https://doi.org/10.5281/zenodo.23160358)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.28349-b31b1b.svg)](https://arxiv.org/abs/2610.28349)
 [![Docs](https://img.shields.io/badge/docs-online-blue)](https://quantum-cosmos-lab.github.io/cophi/)
 
 **CO**mpiling **PH**otonics into d**I**gital quantum circuits.
@@ -114,10 +115,41 @@ uv run mkdocs serve
 
 ## Citation
 
-If you use COΦ in your research, please cite it. Citation metadata is in
-[`CITATION.cff`](CITATION.cff); GitHub's **"Cite this repository"** button exports it
-as BibTeX or APA. Each release is archived on Zenodo:
+If you use COΦ in your research, please cite **both** the article describing the method
+and the software release you used.
+
+**Article** — G. Czelusta, M. Markiewicz, J. Mielczarek, A. Miroszewski,
+*COΦ – COmpiling PHotonics into dIgital quantum circuits*,
+[arXiv:2610.28349](https://arxiv.org/abs/2610.28349) (2026).
+
+```bibtex
+@misc{czelusta2026cophi,
+  title         = {{CO$\Phi$} -- {CO}mpiling {PH}otonics into d{I}gital quantum circuits},
+  author        = {Czelusta, Grzegorz and Markiewicz, Marcin and Mielczarek, Jakub and Miroszewski, Artur},
+  year          = {2026},
+  eprint        = {2610.28349},
+  archivePrefix = {arXiv},
+  primaryClass  = {quant-ph},
+  doi           = {10.48550/arXiv.2610.28349},
+}
+```
+
+**Software** — archived on Zenodo,
 [doi:10.5281/zenodo.23160358](https://doi.org/10.5281/zenodo.23160358).
+
+```bibtex
+@software{czelusta2026cophi_software,
+  title     = {{CO$\Phi$} (cophi): {CO}mpiling {PH}otonics into d{I}gital quantum circuits},
+  author    = {Czelusta, Grzegorz},
+  year      = {2026},
+  version   = {0.1.0},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23160358},
+  url       = {https://github.com/Quantum-Cosmos-Lab/cophi},
+}
+```
+
+Machine-readable metadata for both is in [`CITATION.cff`](CITATION.cff).
 
 ## Project structure
 

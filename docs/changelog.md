@@ -9,3 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release.
 - `CITATION.cff` citation metadata for Zenodo archiving.
+- Reference to the accompanying article, arXiv:2610.28349.

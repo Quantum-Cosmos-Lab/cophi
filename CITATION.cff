@@ -1,5 +1,7 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata from this file."
+message: >-
+  If you use this software, please cite both the accompanying article
+  (preferred-citation) and the software itself, using the metadata from this file.
 type: software
 title: "COΦ (cophi): COmpiling PHotonics into dIgital quantum circuits"
 abstract: >-
@@ -28,3 +30,25 @@ keywords:
   - OpenQASM
   - compiler
   - PennyLane
+preferred-citation:
+  type: article
+  title: "COΦ - COmpiling PHotonics into dIgital quantum circuits"
+  authors:
+    - family-names: "Czelusta"
+      given-names: "Grzegorz"
+      orcid: "https://orcid.org/0000-0002-8624-6284"
+    - family-names: "Markiewicz"
+      given-names: "Marcin"
+    - family-names: "Mielczarek"
+      given-names: "Jakub"
+    - family-names: "Miroszewski"
+      given-names: "Artur"
+  year: 2026
+  month: 10
+  doi: "10.48550/arXiv.2610.28349"
+  url: "https://arxiv.org/abs/2610.28349"
+  journal: "arXiv"
+  identifiers:
+    - type: other
+      value: "arXiv:2610.28349"
+      description: "arXiv preprint (quant-ph)"
