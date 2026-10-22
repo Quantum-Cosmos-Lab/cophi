@@ -9,7 +9,8 @@ abstract: >-
   OpenQASM circuits via truncated Fock space encoding. Photon-number states of
   each optical mode are encoded in binary across qubits, so continuous-variable
   circuits (squeezing, displacement, phase shift, beam splitter) can be run on
-  gate-based simulators and hardware.
+  gate-based simulators and hardware. This software accompanies the article
+  "COΦ - COmpiling PHotonics into dIgital quantum circuits" (arXiv:2610.28349).
 authors:
   - family-names: "Czelusta"
     given-names: "Grzegorz"

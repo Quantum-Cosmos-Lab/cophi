@@ -8,6 +8,12 @@
 
 Compile [Blackbird](https://quantum-blackbird.readthedocs.io) quantum-optics programs into qubit-based [OpenQASM](https://openqasm.com) circuits using truncated Fock-space encoding.
 
+> This repository contains the software described in the article
+> G. Czelusta, M. Markiewicz, J. Mielczarek, A. Miroszewski,
+> *COΦ – COmpiling PHotonics into dIgital quantum circuits*,
+> [arXiv:2610.28349](https://arxiv.org/abs/2610.28349) (2026).
+> See [Citation](#citation) for how to cite it.
+
 **Documentation:** <https://quantum-cosmos-lab.github.io/cophi/>
 
 ## Overview

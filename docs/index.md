@@ -5,6 +5,12 @@
 
 **CO**mpiling **PH**otonics into d**I**gital quantum circuits.
 
+> COΦ is the software described in the article
+> G. Czelusta, M. Markiewicz, J. Mielczarek, A. Miroszewski,
+> *COΦ – COmpiling PHotonics into dIgital quantum circuits*,
+> [arXiv:2610.28349](https://arxiv.org/abs/2610.28349) (2026).
+> See [Citation](#citation) for how to cite it.
+
 **Compile Blackbird quantum-optics programs into qubit-based OpenQASM circuits.**
 
 COΦ bridges continuous-variable (CV) photonic quantum computing and gate-based quantum hardware.  It reads circuits written in the [Blackbird](https://quantum-blackbird.readthedocs.io) language — the standard for expressing Gaussian Boson Sampling and related experiments — and produces equivalent [OpenQASM 2.0](https://openqasm.com) programs where photon-number states are encoded in binary across qubits.
